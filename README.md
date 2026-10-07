@@ -1,0 +1,1 @@
+# haircare-project-directives
